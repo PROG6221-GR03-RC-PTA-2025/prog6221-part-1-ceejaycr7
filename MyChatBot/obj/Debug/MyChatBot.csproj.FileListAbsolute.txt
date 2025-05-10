@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\obj\Debug\MyChatBot.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\obj\Debug\MyChatBot.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\bin\Debug\MyChatBot.exe.config
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\bin\Debug\MyChatBot.exe
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\bin\Debug\MyChatBot.pdb
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\obj\Debug\MyChatBot.exe
+C:\Users\DELL\OneDrive\Desktop\Coding Work\C SHARP\MyChatBot\obj\Debug\MyChatBot.pdb
